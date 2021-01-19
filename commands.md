@@ -49,6 +49,7 @@ comments: false
 - `cat` > Gets a cute cat photo :3
 - `birb` > Gets a random bird photo
 - `shove` > Feeling upset? Shove someone!
+- `randombee` > Displays random line from the Bee Movie.
 
 ## Polls
 - `poll yn` > A simple yes or no poll.
