@@ -3,7 +3,7 @@ layout: page
 title: Commands
 subtitle: You might wanna know how to use it!
 tags: [milestones]
-comments: true
+comments: false
 ---
 
 ### Soundboard
@@ -50,6 +50,11 @@ comments: true
 - `birb` > Gets a random bird photo
 - `shove` > Feeling upset? Shove someone!
 
+## Polls
+- `poll yn` > A simple yes or no poll.
+- `poll abc` > A 3-choice poll.
 
+## Music
+- `play` > Plays any provided YouTube link.
 
 **_More commands coming soon._**
