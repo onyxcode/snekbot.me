@@ -55,7 +55,4 @@ comments: false
 - `poll yn` > A simple yes or no poll.
 - `poll abc` > A 3-choice poll.
 
-## Music
-- `play` > Plays any provided YouTube link.
-
 **_More commands coming soon._**
